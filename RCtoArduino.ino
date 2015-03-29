@@ -61,6 +61,8 @@ void loop()
   {
     digitalWrite(motorA, LOW);
     digitalWrite(motorB, LOW);
+    digitalWrite(steerL, LOW);
+    digitalWrite(steerR, LOW);
   }  
   if (message.endsWith(markerEnd))
   {

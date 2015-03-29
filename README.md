@@ -4,5 +4,5 @@ A small project converting an RC car to an Arduino controlled car (over Bluetoot
 ## Console Application
 Reads the input from an Xbox 360 controller and passes it through a Serial port connection
 
-## Arduino application
+## Arduino Application
 Reads the input from the Serial port and does things.
